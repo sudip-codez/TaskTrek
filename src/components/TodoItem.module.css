@@ -1,0 +1,10 @@
+.oneTask {
+  background-color: #1E1E1E;
+  border: 1px solid #333333;
+  padding: 7px;
+  margin: 18px;
+  border-radius: 5px;
+}
+.dateColor{
+  color:#FFB74D;
+}

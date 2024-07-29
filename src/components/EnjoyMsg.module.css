@@ -1,0 +1,14 @@
+.enjoy-msg{
+  margin-top:80px;
+  font-size:3rem;
+  color:rgb(237, 128, 11);
+  font-family: 'Great Vibes', cursive;
+  font-style: italic;
+}
+.no-tasks-message {
+  font-family: 'Great Vibes', cursive; /* Fancy font */
+  font-size: 2em;
+  text-align: center;
+  font-style: italic;
+  color: #FFB74D; /* Orange color for the message */
+}

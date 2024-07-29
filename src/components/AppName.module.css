@@ -1,0 +1,17 @@
+.todoHeading {
+  font-size: 3em;
+  font-weight: 700;
+  margin: 10px;
+  margin-bottom: 20px;
+  color: #BB86FC;
+  font-family: 'Great Vibes', cursive;
+}
+h1 {
+  background: linear-gradient(45deg, #FFB74D, #BB86FC); 
+  background-clip: text;
+  -webkit-background-clip: text; 
+  -webkit-text-fill-color: transparent; 
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+}
